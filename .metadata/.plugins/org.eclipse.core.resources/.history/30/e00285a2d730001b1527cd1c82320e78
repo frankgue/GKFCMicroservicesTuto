@@ -1,0 +1,5 @@
+package com.example.gkfcsolution.model;
+
+public class LimitsConfiguration {
+
+}
